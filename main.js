@@ -24,6 +24,6 @@ function trocarImagem(){
     
 }
 
-const mudarFundo = trocarImagem()
+const trocaFundo = trocarImagem()
 
-botaoTrocaImagem.addEventListener('click', mudarFundo)
+botaoTrocaImagem.addEventListener('click', trocaFundo)
